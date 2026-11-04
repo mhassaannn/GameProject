@@ -1,0 +1,6 @@
+Hassaan|30|Lost
+hello|40|Lost
+3|40|Lost
+1|40|Lost
+2|651|Won
+hi|585|Won
